@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @npgilman
 - 👀 I’m interested in Data Science and Software Engineering.
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me nathangilman@knights.ucf.edu or (407) 405-0261
+- 📫 How to reach me ngilman@ufl.edu or (407) 405-0261
 
 <!---
 npgilman/npgilman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

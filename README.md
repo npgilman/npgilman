@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @npgilman
+- 👋 Hi, I’m @npgilman!
 - 👀 I’m interested in Data Science and Software Engineering.
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, as well as how to use statistics and computer science in a meaningful way.
 - 📫 How to reach me ngilman@ufl.edu or (407) 405-0261
 
 <!---

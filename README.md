@@ -1,15 +1,4 @@
-Suffering from stage 1 of toxic dev disease: 
-### Learning how to use vim.
+Suffering from Stage 1 of Toxic Dev Disease ...
+Learning to use vim!
 
-Upcoming projects:
-
-Following DIY.Transcriptomics course
-
-Creating a 3d renderer
-
-Figuring out how to use arch
-
-<!---
-npgilman/npgilman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://github.com/npgilman/npgilman/assets/48392211/d7f08b03-699b-45d5-9325-01fa36762f0c)

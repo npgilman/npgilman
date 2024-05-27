@@ -4,10 +4,10 @@ Experience in: <i><b> Game Development 🎮, Mobile Development 📱, MS&T Indsu
 Interested in: <i><b> Mobile Development 📱, DevOps ⚙️, Bioinformatics 🧬 </b></i> </br>
 
 Looking to connect with professionals in these industries! </br>
-Reach me by:
-- 📞 : (407) 405-0261
-- 📧 : ngilman@ufl.edu
-- 👤 : https://www.linkedin.com/in/npgilman/
+Reach me by: </br>
+  📞 : (407) 405-0261 </br>
+  📧 : ngilman@ufl.edu </br>
+  👤 : https://www.linkedin.com/in/npgilman/ </br>
 
 Upcoming Projects:
 - Following DIY.Transcriptomics course

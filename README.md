@@ -1,8 +1,12 @@
-Suffering from stage 1 of toxic dev disease: Learning how to use vim.
+Suffering from stage 1 of toxic dev disease: 
+### Learning how to use vim.
 
 Upcoming projects:
+
 Following DIY.Transcriptomics course
+
 Creating a 3d renderer
+
 Figuring out how to use arch
 
 <!---

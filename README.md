@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @npgilman!
-- 👀 I’m interested in Data Science and Software Engineering.
-- 🌱 I’m currently learning Machine Learning, as well as how to use statistics and computer science in a meaningful way.
-- 📫 How to reach me ngilman@ufl.edu or (407) 405-0261
+Suffering from stage 1 of toxic dev disease: Learning how to use vim.
+
+Upcoming projects:
+Following DIY.Transcriptomics course
+Creating a 3d renderer
+Figuring out how to use arch
 
 <!---
 npgilman/npgilman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

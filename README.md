@@ -8,7 +8,8 @@ Reach me by: </br>
   📞 : (407) 405-0261 </br>
   📧 : ngilman@ufl.edu </br>
   👤 : https://www.linkedin.com/in/npgilman/ </br>
-  🌐 : https://npgilman.github.io/
+  🌐 : https://npgilman.github.io/ </br>
+  
 Upcoming Projects:
 - Following DIY.Transcriptomics course
 - Building a 3d renderer from scratch

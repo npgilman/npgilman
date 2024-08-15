@@ -1,5 +1,3 @@
-Suffering from Stage 1 of Toxic Dev Disease: <i><b> Learning Vim</b></i> </br>
-
 Experience in: <i><b> Game Development </b></i>🎮, <i><b>Mobile Development </b></i>📱, <i><b>MS&T Indsutry </b></i> 🪖 </br>
 Interested in: <i><b> Mobile Development </b></i>📱, <i><b>DevOps </b></i>⚙️, <i><b>Bioinformatics </b></i> 🧬 </br>
 

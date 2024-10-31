@@ -9,6 +9,5 @@ Reach me by: </br>
   🌐 : https://npgilman.github.io/ </br>
   
 Upcoming Projects:
-- Following DIY.Transcriptomics course
 - Building a 3d renderer from scratch
 - Figuring out how to use Arch Linux

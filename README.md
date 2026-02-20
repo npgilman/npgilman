@@ -1,8 +1,8 @@
-Interested in: <i><b>DevOps </b></i>⚙️, <i><b>Bioinformatics </b></i> 🧬 </br>
+Interested in:
+- Devops
+- Bioinformatics
 
 Contact me: </br>
-  📞 : (407) 405-0261 </br>
-  📧 : ngilman@ufl.edu </br>
-  👤 : https://www.linkedin.com/in/npgilman/ </br>
-  🌐 : https://ngilman.dev </br>
-  
+(407) 405-0261 </br>
+@ngilman@ufl.edu </br>
+https://www.linkedin.com/in/npgilman/

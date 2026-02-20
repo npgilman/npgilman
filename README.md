@@ -1,8 +1,8 @@
 Interested in:
-- Devops
-- Bioinformatics
+1. Devops
+2. Bioinformatics
 
 Contact me: </br>
-(407) 405-0261 </br>
-@ngilman@ufl.edu </br>
-https://www.linkedin.com/in/npgilman/
+1. (407) 405-0261 </br>
+2. ngilman@ufl.edu </br>
+3. https://www.linkedin.com/in/npgilman/

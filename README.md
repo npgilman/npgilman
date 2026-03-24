@@ -1,6 +1,4 @@
-Interested in:
-1. Devops
-2. Bioinformatics
+PhD in Computer Science @ University of Florida
 
 Contact me: </br>
 1. (407) 405-0261 </br>
